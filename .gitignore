@@ -1,5 +1,7 @@
-# dataset folder
-data
+# User-defined files
+.vscode
+results
+vae_net.pth
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
