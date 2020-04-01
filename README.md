@@ -34,7 +34,7 @@ conda deactivate
 
 ## Running the code
 
-The main logic that controls all the classifiers is in `main.py`. Even though you could run the project with the following commands, the dataset is purposely removed from the repo due to class policy and you technically cannot run the classifiers by yourself. The classification result is listed in the report. Feel free to check it out.
+The main logic that controls all the classifiers is in `main.py`. Even though you could run the project with the following commands, the dataset is purposely encrypted due to class policy and you technically cannot run the classifiers by yourself. The classification result is listed in the report. Feel free to check it out.
 
 ```bash
 python3 main.py
